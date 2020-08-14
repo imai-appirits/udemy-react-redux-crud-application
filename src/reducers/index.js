@@ -1,4 +1,4 @@
 import { combineReducers } from 'redux'
-import count form './count'
+import count from './count'
 
 export default combineReducers({ count })
